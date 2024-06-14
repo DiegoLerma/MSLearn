@@ -3,7 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-/openssl-1.1.1u
+# Ignorar la carpeta openssl-1.1.1u
+/mslearn-ai-vision/Labfiles/04-face/Python/computer-vision/openssl-1.1.1u/
 
 # User-specific files
 *.suo
